@@ -1,2 +1,2 @@
-# big-tony-productions
-This repository contains the HTML, CSS, and JavaScript files used for the Big Tony Productions website https://www.bigtonyproductions.com.
+# Hari-Sanjay's captures.
+This repository contains the HTML, CSS, and JavaScript files used for Hari sanjay's website https://www.bigtonyproductions.com.
